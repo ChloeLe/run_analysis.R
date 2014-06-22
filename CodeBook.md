@@ -1,6 +1,6 @@
 ## Code Book
 
-For the provided UCI HAR Dataset the following vars are set from run_analysis.R.  See the [README](README.md) for additional details.
+For the provided UCI HAR Dataset the following variables are set from run_analysis.R.  See the (README.md) for further details.
 
 ### Tidy Mean
 
@@ -87,6 +87,6 @@ A data.table named `tidy` is set with the following columns.  All units are main
 | FFT.BodyBodyGyroJerkMag.Mean | fBodyBodyGyroJerkMag-mean() |
 | FFT.BodyBodyGyroJerkMag.Std  | fBodyBodyGyroJerkMag-std()  |
 
-### Notes
+### Source Data
 
 Source data is from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
